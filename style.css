@@ -1,0 +1,49 @@
+@font-face {
+    font-family: Gilroy-Light;
+    font-family: Gilroy-ExtraBold;
+    src: url(./Radomir\ Tinkov\ -\ Gilroy-Light.woff2);
+    src: url(./Radomir\ Tinkov\ -\ Gilroy-ExtraBold.woff2);
+}
+
+*{
+    margin :0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: 'Gilroy-ExtraBold';
+    background-color: rgb(228, 228, 203)
+}
+html, body{
+    height: 100%;
+    width: 100%;
+}
+
+#center{
+    position : absolute;
+    top: 50%;
+    left: 50%;  
+    transform: translate(-50%, -50%);
+    width: 415px;
+    height: 220px;
+    
+    border-radius: 20px;
+    box-shadow: 10px 10px orange;
+}
+
+h3{
+    position: absolute;
+    font-family: 'Gilroy-ExtraBold';
+    color: cadetblue;
+    left: 37%;
+    top: 20%;
+    
+    font-size: 40px;
+    
+}
+h1{
+    position: absolute;
+    left: 59%;
+    top:21% ;
+    font-family: 'Gilroy-ExtraBold';
+    color: rgb(50, 190, 169);
+    
+}
