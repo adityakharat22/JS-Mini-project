@@ -28,7 +28,7 @@ Follow these instructions to get a copy of the project up and running on your lo
     
     bashCopy code
     
-    `git clone https://github.com/your-username/mouse-color-change-rectangle.git`
+    `git clone https://github.com/adityakharat22/JS-Mini-project.git`
     
 2.  Open the `index.html` file in your preferred web browser.
     
@@ -46,7 +46,7 @@ Contributing
 
 Feel free to contribute to this project. Fork it and submit a pull request with any improvements.
 
-1.  Fork the project (`https://github.com/your-username/mouse-color-change-rectangle/fork`)
+1.  Fork the project (`https://github.com/adityakharat22/JS-Mini-project.git`)
     
 2.  Create your feature branch (`git checkout -b feature/YourFeature`)
     
