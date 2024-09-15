@@ -5,7 +5,9 @@ Mouse Color Change Rectangle
 
 This simple JavaScript project creates a dynamic rectangle that changes color based on the mouse position. When the mouse is on the left side of the rectangle, it gradually changes the color to red, and when on the right side, it changes the color to blue.
 
-**Preiew :** https://adityakharat22.github.io/JS-Mini-project/
+**Preview :** https://adityakharat22.github.io/JS-Mini-project/
+
+
 Features
 --------
 
